@@ -1,4 +1,4 @@
-package com.skeleton.modname.client.util;
+package com.eastcomputing.onemod.client.util;
 
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;
