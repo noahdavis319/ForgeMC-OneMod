@@ -1,5 +1,6 @@
 package com.eastcomputing.onemod;
 
+import com.eastcomputing.onemod.core.init.BlockInit;
 import com.eastcomputing.onemod.core.init.ItemInit;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
